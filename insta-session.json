@@ -1,0 +1,49 @@
+{
+  "cookies": "{\"version\":\"tough-cookie@2.5.0\",\"storeType\":\"MemoryCookieStore\",\"rejectPublicSuffixes\":true,\"cookies\":[]}",
+  "supportedCapabilities": [
+    {
+      "name": "SUPPORTED_SDK_VERSIONS",
+      "value": "13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0,40.0,41.0,42.0,43.0,44.0,45.0,46.0,47.0,48.0,49.0,50.0,51.0,52.0,53.0,54.0,55.0,56.0,57.0,58.0,59.0,60.0,61.0,62.0,63.0,64.0,65.0,66.0"
+    },
+    {
+      "name": "FACE_TRACKER_VERSION",
+      "value": 12
+    },
+    {
+      "name": "segmentation",
+      "value": "segmentation_enabled"
+    },
+    {
+      "name": "COMPRESSION",
+      "value": "ETC2_COMPRESSION"
+    },
+    {
+      "name": "world_tracker",
+      "value": "world_tracker_enabled"
+    },
+    {
+      "name": "gyroscope",
+      "value": "gyroscope_enabled"
+    }
+  ],
+  "language": "en_US",
+  "timezoneOffset": "19800",
+  "radioType": "wifi-none",
+  "capabilitiesHeader": "3brTv10=",
+  "connectionTypeHeader": "WIFI",
+  "isLayoutRTL": false,
+  "adsOptOut": false,
+  "thumbnailCacheBustingValue": 1000,
+  "clientSessionIdLifetime": 1200000,
+  "pigeonSessionIdLifetime": 1200000,
+  "deviceString": "27/8.1.0; 480dpi; 1080x2280; HUAWEI/HONOR; COL-L29; HWCOL; kirin970",
+  "deviceId": "android-1a742132154fbada",
+  "uuid": "979e1ffd-7140-5da6-b3d1-82ada3b5c306",
+  "phoneId": "86f38f07-873f-5cba-ba8d-f91e2897c924",
+  "adid": "69626999-4453-5472-986f-18be2b3bf10d",
+  "build": "MRA58K",
+  "passwordEncryptionKeyId": "224",
+  "passwordEncryptionPubKey": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFzUU9sdEp6dThDazZFSUM5bXlRcwp5UFhyaWlSajVGQy92VFFkQ3lyRVhzRFJDZUIwTWN6c1A3L3l0U2VvSWZ0WmZWMlhENi9obFdjKzdhU3ZsMUE5Cm1NWWpwM1NJb01raU1GZFdTeG9jcTN3d0RZVndQUjN3b2YydnE5NlNwVk1qaTM1SThMQXUyN3M5dGJySnZoK1gKVUh2S1BtZ0Z4WXVWMHJqRDlNY2x5bWJpRDN1MGtHZ3dwOWtaZGMzNkRlWWZMTWZ4VXBNcW9PQkVxUHlwUTZRYgpMT0l0NVUyc1pIYkJsZ3VKU0hsQk5qTW81Wk9HZFpSV0F3Vk5FZDN3NDYwZGs3ZDBkb21EcHVTL2oxcGM1RnRZCkVqdjR1Ukt0RVljWTNXZUF2NjZpWkNBS2ROTllzTGhKZ2svenA5RmcrdmU5YjdTOWp3K1hEMngxKzVDMDBSdm0KV3dJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==",
+  "igWWWClaim": "hmac.AR24ZGT5qw1_SkCr3bSt8ngVSsRZsZjwxbGCaAyZKW9_bpwe",
+  "authorization": "Bearer IGT:2:eyJkc191c2VyX2lkIjoiNzYxMTYzMzEzNTkiLCJzZXNzaW9uaWQiOiI3NjExNjMzMTM1OSUzQWdDTlY0dmhuc1lZTGFWJTNBMjIlM0FBWWRoeDB4bm8xMmo2cndRSnBlNjl4YUhOOTR6anJ4eDR1QWVkRF9ndEEifQ=="
+}
