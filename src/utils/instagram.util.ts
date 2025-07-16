@@ -15,7 +15,6 @@ export const loginInstagram = async (): Promise<IgApiClient> => {
     const session = await loadSession();
     if (session) {
       await ig.state.deserialize(session);
-      console.log(session);
       console.log('🔐 Session restored!');
     } else {
       await ig.account.login(username, password);

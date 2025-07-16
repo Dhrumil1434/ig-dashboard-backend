@@ -19,8 +19,6 @@ const PORT = process.env['PORT'] || 3000;
 connectDB()
   .then(async () => {
     const ig = await loginInstagram();
-    await uploadPost(ig, '../ig-backend/public/image.png', 'great click');
-    await sendDM(ig, 'dhrumil._.panchal', 'Hello');
     app.listen(PORT, () => {
       console.log(`⚙️ Server is running at: http://localhost:${PORT}`);
     });
