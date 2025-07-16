@@ -1,5 +1,10 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@utils-core": ["utils/index.ts"],
+      "@middleware-core": ["middlewares/index.ts"]
+    },
     /* Language and Environment */
     "target": "ES2016" /* Specifies the target ECMAScript version. */,
     "module": "commonjs" /* Sets the module system for the project. */,
